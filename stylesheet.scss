@@ -1,0 +1,11 @@
+.familyTree {
+  $totalWidth: 400px;
+  width: $totalWidth;
+  height: $totalWidth;
+  div {
+    width: $totalWidth / 4;
+  }
+  .button {
+    width: $totalWidth / 10;
+  }
+}
